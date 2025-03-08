@@ -1,0 +1,4 @@
+country_name: "united_republic_of_tanzania"
+ssp_input_file_name: "inputs_lka_per_tza_built_20250225.csv"
+ssp_transformation_cw: "ssp_tanzania_transformation_2025_03_06.xlsx"
+energy_model_flag: true
