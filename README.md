@@ -9,7 +9,7 @@ reside in the `ssp_modeling` folder described below.
 ## Visualization
 
 Explore the public visualization of Peru's case study here:  
-[Peru Case Study – (Tableau)](https://public.tableau.com/app/profile/carlos.fabian.fuentes.rivas/viz/Peru_CaseStudy_v250821/GHGsectorlayers)
+[Peru Case Study – (Tableau)](https://public.tableau.com/views/Peru_CaseStudy/GHGsectorlayers?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 
